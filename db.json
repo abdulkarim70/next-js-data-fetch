@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 30.5,
+      "stock": 100,
+      "brand": "Logitech",
+      "rating": 4.5,
+      "description": "Ergonomic wireless mouse with USB receiver",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 35.0,
+      "stock": 60,
+      "brand": "JBL",
+      "rating": 4.6,
+      "description": "Portable speaker with deep bass and long battery life",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 55.99,
+      "stock": 45,
+      "brand": "Nike",
+      "rating": 4.4,
+      "description": "Lightweight running shoes for daily training",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "category": "Accessories",
+      "price": 22.75,
+      "stock": 85,
+      "brand": "Wildcraft",
+      "rating": 4.3,
+      "description": "Durable backpack with laptop compartment",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "category": "Wearables",
+      "price": 120.0,
+      "stock": 30,
+      "brand": "Samsung",
+      "rating": 4.7,
+      "description": "Fitness tracking smartwatch with heart rate monitor",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
